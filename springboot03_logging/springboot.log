@@ -1,0 +1,11 @@
+2020-02-22 15:42:26.451  INFO 26172 --- [main] .v.s.Springboot03LoggingApplicationTests : Starting Springboot03LoggingApplicationTests on Vegedog with PID 26172 (started by 54596 in G:\IdeaProjects\SpringBootStudyDemos\springboot03_logging)
+2020-02-22 15:42:26.453 DEBUG 26172 --- [main] .v.s.Springboot03LoggingApplicationTests : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-22 15:42:26.453  INFO 26172 --- [main] .v.s.Springboot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2020-02-22 15:42:27.537  INFO 26172 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-22 15:42:27.740  INFO 26172 --- [main] .v.s.Springboot03LoggingApplicationTests : Started Springboot03LoggingApplicationTests in 1.612 seconds (JVM running for 2.598)
+2020-02-22 15:42:27.894 TRACE 26172 --- [main] .v.s.Springboot03LoggingApplicationTests : 这是trace日志
+2020-02-22 15:42:27.894 DEBUG 26172 --- [main] .v.s.Springboot03LoggingApplicationTests : 这是debug日志
+2020-02-22 15:42:27.894  INFO 26172 --- [main] .v.s.Springboot03LoggingApplicationTests : 这是info日志
+2020-02-22 15:42:27.895 ERROR 26172 --- [main] .v.s.Springboot03LoggingApplicationTests : 这是error日志
+2020-02-22 15:42:27.895  WARN 26172 --- [main] .v.s.Springboot03LoggingApplicationTests : 这是warn日志
+2020-02-22 15:42:27.908  INFO 26172 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
